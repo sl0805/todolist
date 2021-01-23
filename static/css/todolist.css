@@ -1,0 +1,105 @@
+body{
+    margin: 0 auto;
+    width: 800px;         
+}
+#Add{
+    margin-top: 100px;
+    margin-left: 260px;
+    background-color: lawngreen;
+    padding-bottom: 10px;
+    width: 450px;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+#List{
+    list-style:square;
+    width: 800px;
+    margin-top: 0%;
+    background-color: lawngreen;
+}
+#button{
+    text-align: center;
+    width: 40px;
+    height: 21px;
+    border-radius: 5px;
+    background-color: rgb(157, 171, 203);
+    border-color: transparent;
+    color: white;
+    font-size: 9px;
+    font-family: '等线';
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    display: inline; 
+}
+#thing{
+    
+    margin-bottom: 5px;
+    background-color: blanchedalmond;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: auto;
+    
+}
+#edit_thing{
+    
+    margin-bottom: 5px;
+    background-color: rgba(98, 221, 243, 0.438);
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    height: auto;
+}
+.edit_button{
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(157, 171, 203);
+    border-color: transparent;
+    color: white;
+    font-family: '等线';
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px; 
+    float: right;
+    width: 60px;
+    height: 35px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+#content{
+    list-style: square;
+}
+#revise{
+    display: inline;
+    border: 2px solid rgb(217, 223, 234);
+    border-radius:5px;
+    height: 28px;
+    width: 200px;
+    outline: none;
+    margin-top: 10px;
+    font-size: 15px;
+    font-family: '等线';
+    width: 80%;
+    
+}
+#_add{
+    display: inline;
+    border: 2px solid rgb(240, 148, 10);
+    border-radius:5px;
+    height: 28px;
+    width: 200px;
+    outline: none;
+    margin-top: 10px;
+    font-size: 15px;
+    font-family: '等线';
+    
+    width: 370px;
+    
+}
+#del_all{
+    margin-top: -43px;
+    float: right;
+    background-color: red;
+}
